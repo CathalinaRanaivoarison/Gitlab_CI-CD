@@ -1,6 +1,5 @@
 # staticwebsite
 
-$$
 
 ## Getting started
 
