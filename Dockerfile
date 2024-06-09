@@ -1,5 +1,5 @@
 FROM nginx:1.21.1
-LABEL maintainer="Cathalina Ranaivoarion"
+LABEL maintainer="Cathalina Ranaivoarison"
 RUN apt-get update && \
     apt-get upgrade -y && \
     apt-get install -y curl && \
